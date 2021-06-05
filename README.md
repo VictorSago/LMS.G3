@@ -1,6 +1,6 @@
 # Lexicon LMS group 3
 
-Exercise 16 in Lexicon's .NET Programming course: group exercise.
+Exercise 17 in Lexicon's .NET Programming course: group exercise.
 
 ## Project Structure
 
